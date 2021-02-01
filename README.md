@@ -4,8 +4,8 @@
 
 <br><br>
 You can find an image of the help menu below:
-<img src="/images/help.png" align="center">
+<img src="/images/help.PNG" align="center">
 
 <br><br>
 You can find an image of a successful upload below:
-<img src="/images/success.png" align="center">
+<img src="/images/success.PNG" align="center">
