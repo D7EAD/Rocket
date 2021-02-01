@@ -2,7 +2,7 @@
 <p align="center">A simple application to remotely upload files using libupload-cpp.</p>
 <hr>
 
-<br><br>
+<br>
 You can find an image of the help menu below:
 <img src="/images/help.PNG" align="center">
 
