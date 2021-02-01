@@ -1,5 +1,5 @@
 <h1 align="center">Rocket</h1></center>
-<p align="center">A simple application to remotely upload files using libupload-cpp.</p>
+<p align="center">A simple application to remotely upload files using <a href="https://github.com/D7EAD/libupload-cpp">libupload-cpp.</a></p>
 <hr>
 
 <br>
