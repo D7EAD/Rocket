@@ -1,2 +1,3 @@
-# Rocket
-A simple application to easily upload files using libupload.
+<h1 align="center">Rocket</h1></center>
+<p align="center">A simple application to remotely upload files using libupload-cpp.</p>
+<hr>
